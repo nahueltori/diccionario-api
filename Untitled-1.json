@@ -1,0 +1,17 @@
+[
+  { "@context": "http://schema.org/" },
+  {
+    "@type": ["DefinedTermSet", "Book"],
+    "@id": "https://dle.rae.es/",
+    "name": "Diccionario de la lengua española RAE - ASALE",
+    "image": "https://dle.rae.es/app/doc/es/img/dle.jpg",
+    "description": "Versión electrónica 23.3 del «Diccionario de la lengua española», obra lexicográfica académica pozr excelencia."
+  },
+  {
+    "@type": "DefinedTerm",
+    "@id": "https://dle.rae.es/auto",
+    "name": "auto",
+    "description": "1. m. En la Edad Media y en el Renacimiento, pieza dramática de breves dimensiones basada en temas religiosos o profanos. 2. m. Der. Resolución judicial motivada que decide cuestiones secundarias, previas, incidentales o de ejecución, para las que no se requiere sentencia.",
+    "inDefinedTermSet": "https://dle.rae.es/"
+  }
+]
